@@ -49,16 +49,4 @@ login(){
 }
 
 ```
-## 部分截图
-列表页 mock数据返回
-https://raw.githubusercontent.com/duxianwei520/resource/master/react/screenshots/list.gif
-图表
-https://raw.githubusercontent.com/duxianwei520/resource/master/react/screenshots/echart.gif
-Facebook官方富文本编辑器draft.js
-https://raw.githubusercontent.com/duxianwei520/resource/master/react/screenshots/draft.gif
-聊天室
-https://raw.githubusercontent.com/duxianwei520/resource/master/react/screenshots/chat.gif
-构建完成的包的分析截图
-https://raw.githubusercontent.com/duxianwei520/resource/master/react/screenshots/analysis.png
-
 
